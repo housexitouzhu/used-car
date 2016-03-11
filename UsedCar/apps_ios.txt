@@ -1,0 +1,24 @@
+{
+  "platform": "iOS",
+  "version": "1.0",
+  "array": [
+    {
+      "name": "汽车之家",
+      "icon": "http://img.autoimg.cn/2scimg/web/app/201401/qichezhijia.png",
+      "url": "http://itunes.apple.com/cn/app/id385919493?mt=8",
+      "description": "汽车之家"
+    },
+    {
+      "name": "汽车报价",
+      "icon": "http://img.autoimg.cn/2scimg/web/app/201401/xinchebaojia.png",
+      "url": "http://itunes.apple.com/cn/app/id415206413?mt=8",
+      "description": "汽车报价"
+    },
+    {
+      "name": "违章查询",
+      "icon": "http://img.autoimg.cn/2scimg/web/app/201401/weizhangchaxun.png",
+      "url": "https://itunes.apple.com/cn/app/id708985992?mt=8",
+      "description": "违章查询"
+    }
+  ]
+}

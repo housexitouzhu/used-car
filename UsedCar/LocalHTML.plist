@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LocalHTML</key>
+	<array>
+		<dict>
+			<key>articleintroduce</key>
+			<string>如何挑选一辆价位适中，车况较好的二手车，是很多消费者头疼的问...</string>
+			<key>articletitle</key>
+			<string>挑选二手车需要注意的十二个细节</string>
+		</dict>
+		<dict>
+			<key>articleintroduce</key>
+			<string>一般第一次买二手车的消费者对二手车交易中需要的手续和交易步骤...</string>
+			<key>articletitle</key>
+			<string>二手车交易步骤指南</string>
+		</dict>
+		<dict>
+			<key>articleintroduce</key>
+			<string>买二手车，在交易环节中除了要看好车况，剩下最重要的环节就是办...</string>
+			<key>articletitle</key>
+			<string>二手车如何过户</string>
+		</dict>
+		<dict>
+			<key>articleintroduce</key>
+			<string>网上的二手车能买吗？可以买，但是消费者必须要知道几个购买二手车...</string>
+			<key>articletitle</key>
+			<string>如何在网络上挑选真实的二手车信息</string>
+		</dict>
+		<dict>
+			<key>articleintroduce</key>
+			<string>经常有人希望笔者帮忙买辆二手车，或是卖掉在用车。在他们中间，... </string>
+			<key>articletitle</key>
+			<string>购买二手车的最佳时机</string>
+		</dict>
+		<dict>
+			<key>articleintroduce</key>
+			<string>广州市车管所     广东     国4排放标准。深圳市车管所     广东     国4排放标准。</string>
+			<key>articletitle</key>
+			<string>各地二手车排放准入标准</string>
+		</dict>
+	</array>
+</dict>
+</plist>

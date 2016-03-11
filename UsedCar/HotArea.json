@@ -1,0 +1,29 @@
+[{
+ "Id": 100000,
+ "Name": "京津冀",
+ "Pinyin": "jingjinji",
+ "IsProvince": "1",
+ "AreaId": "110000,120000,130000"
+ },
+ {
+ "Id": 200000,
+ "Name": "江浙沪",
+ "Pinyin": "jiangzhehu",
+ "IsProvince": "1",
+ "AreaId": "320000,330000,310000"
+ },
+ {
+ "Id": 300000,
+ "Name": "广深",
+ "Pinyin": "guangshen",
+ "IsProvince": "0",
+ "AreaId": "440100,440300"
+ },
+ {
+ "Id": 400000,
+ "Name": "云贵川",
+ "Pinyin": "yunguichuan",
+ "IsProvince": "1",
+ "AreaId": "530000,520000,510000"
+ }
+ ]

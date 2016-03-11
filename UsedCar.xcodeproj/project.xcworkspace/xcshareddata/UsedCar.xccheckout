@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D29EF9DA-94E9-43A7-B122-317E4E2CE328</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UsedCar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ae53c884-dca5-8444-9054-d82aa09df70c++5454</key>
+		<string>https://10.168.0.77:8443/svn/AutoSvn/UsedCar/Develop/iOS/UsedCar/branches</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>v4.3/UsedCar.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ae53c884-dca5-8444-9054-d82aa09df70c++5454</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>ae53c884-dca5-8444-9054-d82aa09df70c++5454</key>
+		<string>https://10.168.0.77:8443/svn/AutoSvn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://10.168.0.77:8443/svn/AutoSvn/UsedCar/Develop/iOS/UsedCar/branches/v4.3/UsedCar.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ae53c884-dca5-8444-9054-d82aa09df70c++5454</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ae53c884-dca5-8444-9054-d82aa09df70c++5454</string>
+			<key>IDESourceControlWCCName</key>
+			<string>branches</string>
+		</dict>
+	</array>
+</dict>
+</plist>
